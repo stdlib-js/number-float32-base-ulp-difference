@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-30)
+## Unreleased (2026-09-06)
+
+<section class="features">
+
+### Features
+
+-   [`21a26f1`](https://github.com/stdlib-js/stdlib/commit/21a26f13b9fb78e54e936fdfc77e5ce4ecdfd091) - add `C` implementation to `number/float32/base/ulp-difference` [(#15001)](https://github.com/stdlib-js/stdlib/pull/15001)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`21a26f1`](https://github.com/stdlib-js/stdlib/commit/21a26f13b9fb78e54e936fdfc77e5ce4ecdfd091) - **feat:** add `C` implementation to `number/float32/base/ulp-difference` [(#15001)](https://github.com/stdlib-js/stdlib/pull/15001) _(by Muhammad Haris, Athan Reines)_
 -   [`8da7f12`](https://github.com/stdlib-js/stdlib/commit/8da7f12959b84428e227d1d9639f871a5268430a) - **docs:** fix JSDoc type [(#12916)](https://github.com/stdlib-js/stdlib/pull/12916) _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +35,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
+-   Muhammad Haris
 -   Philipp Burckhardt
 
 </section>
